@@ -156,6 +156,9 @@ table tr:last-child td {
     left: 0;
     width: 100%;
 }
-
-
+.attribution p{
+    display: inline;
+    margin-left: 2px;
+    margin-right: 2px;
+}
 .attribution a { color: hsl(228, 45%, 44%); }
